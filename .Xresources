@@ -1,0 +1,14 @@
+! Urxvt settings
+
+URxvt*termName:         rxvt-unicode-256color
+URxvt*font:             xft:                   Droid Sans Mono:  pixelsize=14:  antialias=true
+URxvt*scrollBar:        false
+URxvt*foreground:       #c8c8c8
+URxvt*transparent:      true
+URxvt*shading:          30
+URxvt.perl-ext-common:  default.matcher
+URxvt.urlLauncher:      /usr/bin/firefox
+URxvt.matcher.button:   1
+URxvt.scrollBar:        false
+
+# include ".Xresources-includes/colours/horo"

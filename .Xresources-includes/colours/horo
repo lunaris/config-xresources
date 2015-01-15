@@ -1,0 +1,31 @@
+! Black
+URxvt*color0: #222222
+URxvt*color8: #353535
+
+! Red
+URxvt*color1: #cd6979
+URxvt*color9: #f494a3
+
+! Green (purple)
+URxvt*color2: #7c788e
+URxvt*color10: #a39fb4
+
+! Yellow (aqua)
+URxvt*color3: #8ac3c8
+URxvt*color11: #a2c2c5
+
+! Blue
+URxvt*color4: #4b4ca8
+URxvt*color12: #6666af
+
+! Magenta
+URxvt*color5: #cb6aa0
+URxvt*color13: #eaa6cb
+
+! Cyan
+URxvt*color6: #9a9dbb
+URxvt*color14: #c1c3dc
+
+! White
+URxvt*color7: #dab6ca
+URxvt*color15: #fdddef
